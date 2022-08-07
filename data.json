@@ -1,0 +1,106 @@
+{
+  "aboutme": {
+    "title": "about me",
+    "content": "I am a CSE undergrad at Galgotias, Uttar Pradesh, batch of 2024.I like to work with TS, JS and it's various frameworks. Python is my 2nd language of choice.I have built many projects on AI-ML.This website shows my contact details, past experience along with some of the projects that I have worked on."
+  },
+  "experience": {
+    "title": "experience",
+    "items": [
+      {
+        "title": {
+          "content": "Amazon Web Services"
+        },
+        "role": "Cloud Engineer Intern",
+        "time": "10/2021 – 12/2021",
+        "items": [
+          "Developed Production Ready APIs and Admin Panels",
+          "Service handles thousands of live users",
+          "Worked with Selenium, AWS, PostgreSQL, NodeJS"
+        ]
+      },
+      {
+        "title": {
+          "content": "Amazon Web Services(AICTE)"
+        },
+        "role": "ML Engineer Intern",
+        "time": "04/2020 – 07/2020",
+        "items": [
+          "Developed RESTful APIs for Industrial scale ML Pipeline",
+          "Automated cleaning & transormation of raw data",
+          "Visualized change in accuracy of data after transformation on standard models"
+        ]
+      },
+      {
+        "title": {
+          "content": "Red Hat Academy"
+        },
+        "role": "SDE Intern",
+        "time": "03/2022 – 05/2022",
+        "items": [
+          "Deployed RESTful APIs on the android ecosystem",
+          "Learned skills like time management and being a team player"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "projects",
+    "items": [
+      {
+        "title": {
+          "content": "Owl AI",
+          "url": "https://github.com/Pritish-Sinha/Owl_AI"
+        },
+        "tags": ["Python", "Pysparks", "NLP", "NetworkX", "RapiApi"],
+        "content": "A live web-app that automates ESG scoring and data exctraction using python backend. A great way to visualize your data according to your needs."
+      },
+      {
+        "title": {
+          "content": "Deepfake Detection Chrome App",
+          "url": "https://github.com/Pritish-Sinha/INTEL_Project"
+        },
+        "tags": ["Keras", "TensorFlow", "MediaPipe", "Python"],
+        "content": "A chrome extension that allows you to check for deepfake while surfing over video channels. A convolutional neural network is trained to detect deepfakes. It is used Modzy Api"
+      },
+      {
+        "title": {
+          "content": "ESG Sentiment Miner",
+          "url": "https://github.com/Pritish-Sinha/Machine-Leaning-Project/tree/main/ESG_Sentiment_Mining"
+        },
+        "tags": [" Engineering", " Learning", "NLP", "RapidApi", "Pandas"],
+        "content": "A Jupyter Notebook that gets the most recent news articles about a company and applies sentiment analysis to mine for an ESG score when given a ticker."
+      },
+      {
+        "title": {
+          "content": "Google Stock Price Prediction",
+          "url": "https://github.com/Pritish-Sinha/Deep-Learning-Projects/tree/main/Google_Stock_Price_Prediction%20%5BRNN%20%E2%81%84%20LSTM%5D"
+        },
+        "tags": ["Deep Learing", "ES6", "RNN", "LSTM", "Keras", "Data Processing"],
+        "content": "A Jupiter Notebook that uses Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) to predict the stock prices of Google."
+      },
+      {
+        "title": {
+          "content": "Flood Cartographer",
+          "url": "https://github.com/Pritish-Sinha/GU-Cartograhpers"
+        },
+        "tags": ["Keras", "JS", "MapBox"],
+        "content": "Worked on ISRO Flood detection challenge, a web application which maps the major flood prone regions of India and finds places near them using the MapBox, Places, and Directions API."
+      },
+      {
+        "title": {
+          "content": "Social Distancing Patch",
+          "url": "https://github.com/Pritish-Sinha/Social-Distancing-Patch"
+        },
+        "tags": ["JS", "Ardunio", "Twilio"],
+        "content": "Social Distancing Patch using Arduino. It uses Twilio API to alert user of quarantined location and potential infected visits according to arogya setu data."
+      }
+    ],
+   "links": {
+    "github": "https://github.com/Pritish-Sinha",
+    "linkedin": "https://www.linkedin.com/in/pritish-sinha31/",
+    "email": "mailto:bpb1789@gmail.com",
+    "resume": "https://drive.google.com/file/d/1anoI3HeCUXEQ6o1S472_VVCtoXEq-7UJ/view?usp=sharing",
+    "twitter": "https://twitter.com/PritishSinha10",
+    "ig": "https://www.instagram.com/p.s_purge/"
+  }
+}
