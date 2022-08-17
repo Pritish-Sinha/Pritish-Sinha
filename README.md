@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website]()**
+- 🙋‍♂️ All about me is at **[My Website](http://pritish-io.vercel.app/)**
 
 - 🔭 I’m currently working on `AI-ML projects`.
 
